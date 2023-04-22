@@ -1,0 +1,7 @@
+X OR -Y
+5
+T OR U OR V OR X OR Y
+-T
+-V
+-U OR X
+V OR -Y
